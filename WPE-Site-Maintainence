@@ -1,0 +1,23 @@
+# WPEngine Site Maintainence
+1. Refer to Environment Management for details about the state of the environment
+2. Copy Productions to a free environment
+3. Run Environment Updates
+4. Run Pagespeed
+5. Run visual QA
+6. Record findings
+7. Open a changelog ticket in the respective site's repo project on github as a new ticket, using the description outline below and filing in "Resources/Reference Links" to include the pastel link, development environment link, and fill in the overview with quick summary of findings ( to be finalized by the lead ).
+8. Notify lead(s). Include a time estimation of work and timliness of work (is something broken before the update)?
+9. Assign ticket to lead for `scoping`
+
+## Ticket Description Structure
+
+```
+## Overview
+
+## Development Tasks
+
+## Resources/Reference Links
+
+## Completion Validation
+
+```
